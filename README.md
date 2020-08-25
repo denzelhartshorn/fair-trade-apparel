@@ -3,6 +3,8 @@ This was a project created by Denzel Hartshorn, Musa Akbari and Med Amine for th
 
 https://docs.google.com/presentation/d/1s6rOCWd0jbQf79__Lq_fMcwj4lhOmNPwUVQLkv6ujfo/edit?usp=sharing
 
+https://www.linkedin.com/feed/update/urn:li:activity:6592175731806089216/
+
 Technology Used: React.js, Docker, Javascript, CSS
 
 It is no secret that the apparel industry, specifically “fast fashion”, is one of the worst polluters on the planet. Our goal is to create a standard of certification that not only compiles, but adds to, existing international standards regarding 6 key areas in the apparel industry in order to begin to put more sustainable standards and processes in place.
